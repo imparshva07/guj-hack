@@ -1,0 +1,45 @@
+
+.main-div {
+	padding: 10px 10%;
+}
+
+img {
+	float: left;
+	position: inline;
+	margin: 0 20px 10px 0;
+}
+.hostel-detail,  {
+	font-size: 1.2em;
+}
+/*
+.main-div
+{margin:0 auto;
+	margin-top:40px;
+	width:90%;
+	height:600px;
+	padding-top: 40px;
+	padding-left: 60px;
+	border: 2px solid;
+	
+}
+figcaption{
+	font-size: 20px;
+	text-align: center;
+}
+figure{
+	
+	float:left;
+	
+}
+.hostel-attri
+{font-weight:bold;}
+
+button {
+    background-color: #222;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+*/

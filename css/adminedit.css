@@ -1,0 +1,10 @@
+tr{
+  padding-bottom: 5px;
+  border: 1px solid grey;
+}
+h2, p{
+  text-align: center;
+}
+.form-con{
+  margin: 1px auto;
+}
