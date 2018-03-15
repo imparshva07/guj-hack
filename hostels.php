@@ -32,7 +32,7 @@
       <div class="hostel-card">
         <img src="https://picsum.photos/200/200/?random" class="hostel-img" />
         <h3 class="hostel-name">GCET Boys Hostel</h3>
-        <p class="hostel-description">Maruti Paying Guest, as the name implies, offers excellent PG facility for clients looking
+        <p class="hostel-description">GCET Boys Hostel offers excellent PG facility for clients looking
           for a place to stay in Ahmedabad, India. We specialise in renting fully-furnished AC and non-AC
           rooms for both men and women at competitive rates. Contact us for any queries.</p>
         <p><span class="glyphicon glyphicon-map-marker"></span> Nr. GCET, Vallabh Vidyanagar, Anand</p>
@@ -41,7 +41,7 @@
       <div class="hostel-card">
         <img src="https://picsum.photos/200/200/?random" class="hostel-img" />
         <h3 class="hostel-name">Bhavsar Hostel</h3>
-        <p class="hostel-description">Maruti Paying Guest, as the name implies, offers excellent PG facility for clients looking
+        <p class="hostel-description">Bhavsar Hostel offers excellent PG facility for clients looking
           for a place to stay in Ahmedabad, India. We specialise in renting fully-furnished AC and non-AC
           rooms for both men and women at competitive rates. Contact us for any queries.</p>
         <p><span class="glyphicon glyphicon-map-marker"></span> Nr. BRTS stand, Nava Vadaj, Ahamedabad</p>
@@ -50,7 +50,7 @@
       <div class="hostel-card">
         <img src="https://picsum.photos/200/200/?random" class="hostel-img" />
         <h3 class="hostel-name">Lounge Boys Hostel</h3>
-        <p class="hostel-description">Maruti Paying Guest, as the name implies, offers excellent PG facility for clients looking
+        <p class="hostel-description">Lounge Boys Hostel offers excellent PG facility for clients looking
           for a place to stay in Ahmedabad, India. We specialise in renting fully-furnished AC and non-AC
           rooms for both men and women at competitive rates. Contact us for any queries.</p>
         <p><span class="glyphicon glyphicon-map-marker"></span> Nr. SCET, Athva Gate, Surat</p>
